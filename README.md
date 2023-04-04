@@ -10,4 +10,4 @@ Web3 decentralized application to mint NFTs created by AI on the blockchain. Uti
 * NFT.Storage (Connection to IPFS)
 * Hugging Face (AI Models)
 ## Requirements
-NodeJS
+[NodeJS](https://github.com/nodejs/node.git)
